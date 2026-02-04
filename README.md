@@ -3,7 +3,8 @@
         <img src="https://github.com/alohe/avatars/blob/main/png/bluey_2.png?raw=true" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300FF88&size=30&center=true&vCenter=true&width=750&height=60&lines=Hey+there%2C+I'm+Siva+Balaji+%F0%9F%91%8B;Information+Technology+Student;Aspiring+Back-End+Engineer;Problem+Solver+%7C+Freelancer;Open-Source+Enthusiast" alt="Typing SVG" />
+
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/sivabalajism/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
