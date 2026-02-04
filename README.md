@@ -1,108 +1,58 @@
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
-
-### 👨🏻‍💻 &nbsp;About Me
-
-👨‍💻 &nbsp;I am Currently Pursuing my Bachelors Degree under Information Technology.\
-💡 &nbsp;I like to explore new technologies and develop projects.\
-🎓 &nbsp;I'm a Pre-Final year student studying Information Technology .\
-🌱 &nbsp;I'm on track for learning more about Cloud, Database Management, and DevOps.\
-✍️ &nbsp;In my free time, I will run my old game servers and roam around that server.\
-✉️ &nbsp;You can shoot me an email at sivathetechie24@gmail.com!.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
-
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-
-### 🗃 &nbsp;Databases
-
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
-
-
-### 🧰 &nbsp;Version Controll & Tools 
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)&nbsp;
-![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
-
-### 🎖 &nbsp;My Badges 
-
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
-
-
-### 📜 &nbsp;My Articles
-
-[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityakanoi123)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://thedefenceengineer.quora.com/)
-
-### 💰 &nbsp;Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
-
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
-
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<div>
+    <div align=center>
+        <img src="https://github.com/alohe/avatars/blob/main/png/bluey_2.png?raw=true" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>
+    <div align=center>
+        <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
+        <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+        <a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
+        <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+    </div>
+    <div align=left>
+        <br>
+        <p>
+            <strong>
+                Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
+                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
+                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
+                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+            </strong>
+        </p>
+        <ul>
+            <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
+            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
+            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
+            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
+            <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016">Link to my UpWork Full Stack Development Specialization</a>.</li>
+            <li>👨‍💻 <b>Hire me for Back-End Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680">Link to my UpWork Back-End Development Specialization</a>.</li>
+        </ul>
+    </div>
+    <div align=center>
+        <h1>Contribution Activity</h1>
+        <img src="https://github-readme-stats.vercel.app/api?username=ahmedfathydev&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <br>
+        <!--
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
+        <br>
+        -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFathyDev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <br>
+        <br>
+    </div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
 </div>
+
+------
+
+Credit: [Ahmed Fathy](https://github.com/AhmedFathyDev)
+
+Last edited on: 31/01/2022
