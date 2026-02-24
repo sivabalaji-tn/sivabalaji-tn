@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="https://github.com/alohe/avatars/blob/main/png/bluey_2.png?raw=true" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://cdn.jsdelivr.net/gh/alohe/avatars/png/memo_34.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300FF88&size=30&center=true&vCenter=true&width=900&height=65&lines=Hey+there%2C+I'm+Siva+Balaji+%F0%9F%91%8B;Information+Technology+Undergraduate;Aspiring+Back-End+Engineer;Java+%7C+MySQL+%7C+Problem+Solving;Placement+Focused+Learner;Open-Source+Enthusiast" alt="Typing SVG" />
