@@ -1,119 +1,109 @@
-# Hey, I'm Siva Balaji 👋
-### Full Stack Web Developer · Tamil Nadu, India 🇮🇳
-
-> *"I don't just write code — I build things that actually work."*
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Pursuing **B.Tech Information Technology** @ Erode Sengunthar Engineering College *(2023–2027)*
-- 🔨 I build **full-stack web apps** with PHP, MySQL, and a strong backend focus
-- 🚌 Built a **real-time GPS bus tracking system** for rural transportation
-- 🛍️ Built a **complete white-label e-commerce platform** from scratch — multi-tenant, PWA-ready, fully dynamic
-- 🏅 Earned **35+ skill badges** on Google Cloud via Qwiklabs
-- 📊 Completed **SQL Data Analytics** with Distinction (80%)
-- 🌱 Currently learning **Software Engineering** on Coursera
-- ⚡ Fun fact: I solve problems first, then Google them later
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frameworks & Tools**
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🛍️ ShopFlow — White Label E-Commerce Platform
-> Multi-tenant e-commerce platform where any shop — bakery, grocery, clothing — gets their own fully branded storefront from a single codebase.
-
-- Dynamic theming (colors, fonts, logo) per shop — all from DB
-- Owner dashboard with analytics, orders, products, popups, theme customizer
-- AJAX cart, COD checkout, order timeline tracking
-- PWA — installable on phone, works offline
-- **Stack:** PHP · MySQL · Bootstrap · Chart.js · Service Worker
-
----
-
-### 🚌 Smart Transit Manager — Real-time Bus Tracking
-> GPS-based live bus tracking system built for rural transportation in Tamil Nadu.
-
-- Mobile GPS integration with live location updates on OpenStreetMap
-- Route tracking, stop logging, CRUD operations
-- Designed for drivers to broadcast location for public tracking
-- **Stack:** PHP · MySQL · JavaScript · OpenStreetMap API
-
----
-
-### 📚 E-Learning Platform
-> Customized Moodle LMS for skill development with dynamic features and responsive design.
-
-- CRUD-based content management
-- Functional testing for performance
-- **Stack:** PHP · MySQL · HTML · CSS · JavaScript
-
----
-
-## 📜 Certifications & Achievements
-
-- 🏅 **Google Developer Groups on Campus** — Generative AI · 35+ Qwiklabs badges
-- 📊 **SQL Data Analytics** — TN Computer Institution, Theni · Distinction (80%)
-- 🎓 **Software Engineering** — Coursera *(ongoing)*
-- 👨‍💻 **Google Developer Groups Hackathon** participant
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi, I'm Siva Balaji.</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivabalaji-tn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivabalaji-tn&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <strong>Full-stack web developer · Information Technology undergraduate</strong><br>
+  Theni, Tamil Nadu, India · Class of 2027
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivabalaji-tn&theme=tokyonight&hide_border=true"/>
+  I turn ideas into working web applications, from live transit maps to multi-tenant storefronts.
 </p>
 
----
-
-## 📫 Let's Connect
-
-<p align="left">
+<p align="center">
+  <a href="https://sivabalaji-tn.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge" alt="Visit my portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/siva-balaji-sm-95a9422a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge" alt="Connect on LinkedIn">
+  </a>
   <a href="mailto:sivathetechie24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/sivabalajism">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sivabalaji-tn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge" alt="Email Siva Balaji">
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sivabalaji-tn&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
+## About me
 
-<p align="center"><i>"Still in college. Already building production-ready systems. The best is yet to come."</i> 🚀</p>
+I'm an Information Technology undergraduate at **Erode Sengunthar Engineering College**, building web applications with **PHP, JavaScript, and MySQL**. I enjoy the work behind a useful product: designing database flows, connecting APIs, building clear interfaces, and debugging the details.
+
+My projects span e-commerce, public transport, and learning platforms. Alongside development, I have working knowledge of **Moodle LMS and ERP workflows**, including course organization, user administration, and learner tracking.
+
+I'm interested in **internships and entry-level opportunities** in web development, software development, cloud computing, and IT operations.
+
+## Selected work
+
+### Tamizhmart
+
+**Multi-tenant e-commerce with a storefront for every shop.**
+
+A commerce platform with customer storefronts, shop-owner dashboards, and a super-admin panel. Each shop can manage its branding, products, and orders from one shared application.
+
+- Customizable storefront themes and shop settings.
+- Product, order, and analytics dashboards.
+- Razorpay payments and cash-on-delivery checkout.
+- Automated WhatsApp and email notifications.
+
+`PHP` `JavaScript` `MySQL` `Bootstrap` `Razorpay` `REST APIs`
+
+[Visit Tamizhmart](https://tamizhmart.optikl.ink/) · [View repository](https://github.com/sivabalaji-tn/Tamizhmart_Beta)
+
+### Smart Transit Manager
+
+**Live bus tracking for rural transportation.**
+
+A collaborative project that uses GPS coordinates from drivers' mobile devices to show bus locations, routes, and stop information on a public map.
+
+- Mobile GPS updates for live location tracking.
+- Interactive maps using Leaflet.js and OpenStreetMap.
+- Route and stop management with database-backed operations.
+
+`PHP` `JavaScript` `MySQL` `REST APIs` `Leaflet.js` `OpenStreetMap`
+
+[View repository](https://github.com/sivabalaji-tn/Smart-Transit-Manager)
+
+### Moodle LMS & ERP workflows
+
+**Supporting the day-to-day work of learning platforms.**
+
+Working knowledge of course and content management, user roles, learner tracking, and academic support workflows. My related **Inspired Learning** project builds on Moodle for an adaptable e-learning environment.
+
+`Moodle` `PHP` `MySQL` `Course Management` `User Administration`
+
+[Explore Inspired Learning](https://github.com/sivabalaji-tn/Inspired-Learning)
+
+## My toolkit
+
+| Area | Technologies and tools |
+| :--- | :--- |
+| Frontend | HTML, CSS, JavaScript, Bootstrap |
+| Backend & data | PHP, MySQL, REST APIs, CRUD, phpMyAdmin |
+| Additional language | Java |
+| Development & testing | Git, GitHub, Postman, VS Code, IntelliJ IDEA, XAMPP |
+| Containers & cloud | Docker, AWS |
+| Learning platforms | Moodle LMS, ERP workflows |
+
+## Education & learning
+
+**B.Tech in Information Technology** · 2023–2027  
+Erode Sengunthar Engineering College, Perundurai, Erode
+
+- **35+ Google Cloud skill badges** through Qwiklabs, with Generative AI learning through Google Developer Groups on Campus.
+- **SQL Data Analytics** — TN Computer Institution, Theni · **Distinction, 80%**.
+
+<details>
+  <summary>Earlier education</summary>
+
+**Higher Secondary · Computer Science** · 2021–2023  
+Sri Valli Varadaraj Matriculation Higher Secondary School · **71%**
+
+</details>
+
+---
+
+<p align="center">
+  <strong>Have a project, internship, or opportunity in mind?</strong><br>
+  <a href="mailto:sivathetechie24@gmail.com">Let's talk</a> ·
+  <a href="https://sivabalaji-tn.github.io/">Explore my portfolio</a> ·
+  <a href="https://sivabalaji-tn.github.io/assets/SivaBalaji_Resume.docx">Download my resume</a>
+</p>
